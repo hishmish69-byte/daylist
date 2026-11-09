@@ -1,5 +1,5 @@
 'use strict';
-
+//hint is i completed the push for you :)
 const STORAGE_KEY = 'daylist.tasks.v1';
 const statuses = ['todo', 'doing', 'done'];
 const statusNames = { todo: 'To do', doing: 'In progress', done: 'Done' };
